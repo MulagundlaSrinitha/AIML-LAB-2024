@@ -12,3 +12,5 @@
 [AIML LAB 06](https://github.com/MulagundlaSrinitha/AIML-LAB-2024/blob/main/Lab6.ipynb)
 # AIML-LAB-2024
 [AIML LAB 07](https://github.com/MulagundlaSrinitha/AIML-LAB-2024/blob/main/LAB07.ipynb)
+# AIML-LAB-2024
+[AIML LAB 08](
